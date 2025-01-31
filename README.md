@@ -1,5 +1,7 @@
-<div style="text-align: center; width: 300px; margin: 0 auto;">
-   <img src="img/3x4_fondo_blanco.jpg" alt="foto de Jhon en traje formal" title="foto de Jhon" width="200" />
-   <h3>¡Hey 👋! Soy Jhon</h3>
-</div>
+<p style="text-align: center; width: 300px; margin: 0 auto;">
+   <img src="img/3x4_fondo_blanco.jpg" alt="foto de Jhon en traje formal" title="foto de Jhon con fondo blanco" width="200" height="200" style="border-radius: 50%;"/>
+   <h3 style="text-align: center;">Hi, I'm Jhon. Nice to meet you</h3>
+</p>
+
+
 
